@@ -37,11 +37,35 @@ const birthdayConfig = {
   letter: {                     // 💌 the letter inside the envelope
     title: "Happy Birthday Piyuu 🧸❤️",
     greeting: "Dear {Naina},",
-    paragraphs: [                // add or remove paragraphs freely
-      "You are one of the most special people in my life, and today I just want you to feel how loved you are.",
-      "Thank you for every laugh, every hug and every little moment that made my days brighter.",
-      "Write your own heartfelt message here. Make it as long as you like — the letter scrolls."
-    ],
+ paragraphs: [
+  "Dear Naina, kitna ajeeb hai na… hume 7 saal ho gaye and it still makes me feel like we are just mate 2 days ago 😂..",
+
+  "Have you remember that how I wished you first time on your birthday 😂😆 (Hamare life main aur ek manhuj paida hone vali. Or sabko bore karne vali, achisi buri dikhni vali hamari burbak chudail ko uske manhus din ki shubhkamnaye 🤣🤣🤙🏻). Like this… and who knows ki ye boredom mujhe pasand ayega karke 😂 But now this is my sukoon vala space 🙂‍↔️🤌🏻💞.",
+
+  "I'm so glad to have you in my life, my chicks 🤌🏻🐱. You are so beautiful, so elegant, just looking like a wowwww 🤌🏻😍😚💃🏻♥️✨ and I feel so proud always to call you my girrrlllhhhhh 😚🙂‍↕️🫶🏻.",
+
+  "Yes, afsos main ye cheez confess nahi karta, but tere aane se pehle aur tere aane ke baad wala Swapnil… it's totally different. You changed me, you changed my entire life perspective 💯💫. But iske baad ab sir pe mat chadh jana, vaise tune vahi ghar bana liya hai mere sir mein 😶‍🌫️👻😶‍🌫️. Vetal jhaliys majhya life chi ata tu 🤦🏻😂 kuch kar bhi nahi sakta, gandi aadat jo dali hain...",
+
+  "But funs apart, thank you so much to me to pull you in my life 🙂‍↕️🤙🏻💯. Dekha mere laaparwahi ka natija… is More ko Morni jo milgai 🦚🙂‍↔️🤭🫂.",
+
+  "Now seriously funs apart, tere saare sapne pure ho… or sabse pehla sapna main hu, I know 🙂‍↕️🤌🏻😂💯.",
+
+  "Thank you so much piyaa to support me every time whenever I feel down. Thank you for being my backbone 🤌🏻🫂♥️🦚.",
+
+  "Currently mujhe itna kuch kehna hain ki main likh nahi pa raha hu. Agli baar likhunga, ek ek karke..",
+
+  "But currently you are so grateful to have me in your life 🤌🏻😌🙂‍↔️♥️🤭🦚..",
+
+  "Tbh, kyuki fasaliya hain Naina tune mujhe, ab tere bina kuch nahi dikhta mujhe. Har ek life perspective, point or view mein ab tujhe saath rehna hoga… aur nahi rahi to uthake le jaunga, bhale tere ghar se kitni bhi maar pade 🙂‍↕️💪🏻.",
+
+  "7 saal complete kare hain, ab 70 tak koi objection nahi. Terko rehna hi padega 🙂‍↕️😂. Budhape mein bhi to hum bed 🛏️ todna hain 🙂‍↔️💦❤️‍🔥😁.",
+
+  "You are my lucky charm 🧿🫂🦚♥️. Hate you a lot, Babe's 😌💋.",
+
+  "I Hate You My girrrlllhhhhh 🦚😌💋🫂💝✨",
+
+  "Your Handsome Bunny 😎😌..."
+],
     quote: "“The best things in life are the people we love.”",   // "" to hide
     signature: "With lots of love,\nYour Bunnny 🧸❤️"
   },
