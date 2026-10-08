@@ -76,5 +76,5 @@ const birthdayConfig = {
     { type: "video", src: "assets/videos/video1.mp4", caption: "A special moment 🎥❤️" }
   ],
 
-  finalMessage: "May your smile always stay this beautiful,\nmay you always be surrounded by happiness that is Me😎\nand may this year bring you everything you deserve that is also only Me...😎❤️"
+  finalMessage: "May your smile always stay this beautiful,\nmay you always be surrounded by happiness that is Me😎\nand may this year bring you everything you deserve that is also only Me...😎❤️🫂"
 };
